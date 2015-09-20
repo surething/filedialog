@@ -1,0 +1,4 @@
+Debug/
+Release/
+*.build/
+moc_*.cpp

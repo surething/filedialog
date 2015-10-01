@@ -11,3 +11,5 @@ HEADERS += mydialog.h
 SOURCES += main.cpp mydialog.cpp
 
 LIBS += -framework QtWidgets
+
+QMAKE_CXXFLAGS += -std=c++11 -stdlib=libc++
